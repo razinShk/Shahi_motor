@@ -1,0 +1,6 @@
+# React Router SPA redirect
+/*    /index.html   200
+
+# Ensure proper MIME types
+/*.js   /assets/:splat  200
+/*.mjs  /assets/:splat  200
